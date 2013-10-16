@@ -41,17 +41,30 @@ https://github.com/Saivald/INTOPrufa/blob/master/NIM.cpp
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
+VLC media player 
+GNU General Public Licence, v. 2
+Source code http://www.videolan.org/vlc/download-sources.html
+
+GIMP
+GNU General Public License
+Source code http://www.gimp.org/source/
+
 Mozilla Firefox
-GPL-2.0+, LGPL og MPL-1.1
+MPL Mozilla Public License
 Source code: ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/25.0b7/source/
 
 Texmaker
-GNU GPL
+GPL General Public Licence
 http://www.xm1math.net/texmaker/download.html#source
 
+VirtualBox
+GNU General Public License
+https://www.virtualbox.org/browser/vbox/trunk
+
 Codeblocks
-GNU
+GNU General Public License
 http://www.codeblocks.org/downloads/source
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
