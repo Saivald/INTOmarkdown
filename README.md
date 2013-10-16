@@ -12,7 +12,8 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Thad gekk illa ad setja upp Ubuntu. Eg aetladi ad nota adgerdina med USB lyklinum en thad ekki upp. Tha akvad eg ad nota VirtualBox,thad gekk vel ad setja upp VirtualBox. Svo kom ad thvi ad koma Ubuntu 13.04 inni i VirtualBox, thad gekk lika vel. En thegar eg aetladi ad raesa Ubuntu i VB thad lenti eg i vandraedum. Ubuntu er mjog haegfaera i tolvunni minni. Thad litur ut fyrir ad thetta se algengt vandamal en mer tokst ekki ad laga thetta. Thannig ad Ubuntu i VB var i "slow motion" thegar eg gerdi verkefnid.
 
-Vantar mynd
+Mynd - Saevald
+![alt tag](https://github.com/Saivald/INTOPrufa/blob/master/Downloads/UbuntuSai.jpg)
 
 ## 2. Uppsetning á vim && git
 
