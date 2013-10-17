@@ -27,6 +27,8 @@ og setja thetta inn:
 nameserver 8.8.8.8
 Nuna gat eg innstallad vim og git an vandamala.
 
+Það gekk alveg án vandræða.
+
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
@@ -34,6 +36,7 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 Thad gekk saemilega ad vinna verkefnid. 
+Það tók smá stund að finna út úr öllu en á endanum gekk þetta þokkalega.
 Her er linkur a verkefnid:
 https://github.com/Saivald/INTOPrufa/blob/master/NIM.cpp
 
