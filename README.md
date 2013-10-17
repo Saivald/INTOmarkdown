@@ -44,9 +44,11 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 Thad gekk saemilega ad vinna verkefnid. 
-Það tók smá stund að finna út úr öllu en á endanum gekk þetta þokkalega.
+
 Her er linkur a verkefnid:
 https://github.com/Saivald/INTOPrufa/blob/master/NIM.cpp
+
+Það tók smá stund að finna út úr öllu og framan af einkenndist verkefnið af trial and error, en á endanum gekk þetta þokkalega.
 
 Thad gekk frekar illa ad laera a skipanirnar. Thad var audvelt ad finna skjalid og breyta en thad tok tima ad vista thad rett og gera rettu skipanirnar i rettri rod.
 
@@ -94,4 +96,4 @@ https://www.libreoffice.org/download
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Við lentum í vandræðum með að vinna í readme skjalinu í lokin, fengum villumeldingar ef við reyndum að committa í gegnum INTOmarkdown í terminalinu, en við komumst framhjá því með því að klára að vinna skjalið inni á github.com
