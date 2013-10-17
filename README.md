@@ -67,6 +67,19 @@ Codeblocks
 GNU General Public License
 http://www.codeblocks.org/downloads/source
 
+LinuxMint
+GPL General Public License
+http://packages.linuxmint.com
+
+Pidgin Messenger
+GNU General Public License
+http://www.pidgin.im/downloads/source
+
+LibreOffice
+GNU Lesser General Public License
+https://www.libreoffice.org/download
+
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
