@@ -21,7 +21,7 @@ Mynd - Filippa
 
 Thad gekk mjog vel ad setja upp Linux. Eg notadi USB lykil. Thad tok sma stund ad finna saucy-skjalid en thad var ekkert minnst a thad i leidbeiningunum. Eftir thad var litid mal ad vista Ubuntu a USB lyklinum. Ubuntu virkadi strax I fyrstu tilraun en var med vesen I upphafi, fraus nokkrum sinnum og tvisvar thurfti eg ad restarta thvi thvi musin virkadi ekki. 
 Thad var lika vesen ad na netsambandi, tolvan nadi engu sambandi vid wifi-id heima en virkadi strax thegar eg tengdi netsnuru vid thad. - Stefania
-![alt tag]*(https://raw.github.com/Saivald/INTOPrufa/master/Downloads/Stefania_photo.JPG)
+![alt tag](https://raw.github.com/Saivald/INTOPrufa/master/Downloads/Stefania_photo.JPG)
 
 ## 2. Uppsetning á vim && git
 
