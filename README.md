@@ -21,7 +21,7 @@ Mynd - Filippa
 
 Thad gekk mjog vel ad setja upp Linux. Eg notadi USB lykil. Thad tok sma stund ad finna saucy-skjalid en thad var ekkert minnst a thad i leidbeiningunum. Eftir thad var litid mal ad vista Ubuntu a USB lyklinum. Ubuntu virkadi strax I fyrstu tilraun en var med vesen I upphafi, fraus nokkrum sinnum og tvisvar thurfti eg ad restarta thvi thvi musin virkadi ekki. 
 Thad var lika vesen ad na netsambandi, tolvan nadi engu sambandi vid wifi-id heima en virkadi strax thegar eg tengdi netsnuru vid thad. - Stefania
-![alt tag]*(https://github.com/Saivald/INTOPrufa/blob/master/Downloads/Stefania_photo.JPG)
+![alt tag]*(https://raw.github.com/Saivald/INTOPrufa/master/Downloads/Stefania_photo.JPG)
 
 ## 2. Uppsetning á vim && git
 
@@ -35,6 +35,8 @@ Nuna gat eg innstallad vim og git an vandamala.
 
 Það gekk alveg án vandræða.
 
+Gekk vel.
+
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
@@ -46,6 +48,7 @@ Thad gekk saemilega ad vinna verkefnid.
 Her er linkur a verkefnid:
 https://github.com/Saivald/INTOPrufa/blob/master/NIM.cpp
 
+Thad gekk frekar illa ad laera a skipanirnar. Thad var audvelt ad finna skjalid og breyta en thad tok tima ad vista thad rett og gera rettu skipanirnar i rettri rod.
 
 
 ## 4. Uppsettur hugbúnaður
