@@ -15,6 +15,8 @@ Thad gekk illa ad setja upp Ubuntu. Eg aetladi ad nota adgerdina med USB lyklinu
 Mynd - Saevald
 ![alt tag](https://raw.github.com/Saivald/INTOPrufa/master/Downloads/UbuntuSai.jpg)
 
+Það gekk ágætlega að setja upp VirtualBox en þar reyndist vera svo hægt að það var engin leið að gera verkefnið í því. Í staðinn setti ég Linux upp á SSD drifi sem ég átti. Það gekk furðu vel og eftir það voru engin vandamál með hraða. Þvert á móti líkar mér Linux svo vel að ég gæti hugsað mér að nota það sem aðalstýrikerfi í framtíðinni.
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
